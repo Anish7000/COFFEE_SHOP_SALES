@@ -2,7 +2,6 @@
 ## Project Objective  
 "This project focuses on analyzing coffee shop sales using MySQL for data management and Power BI for visualization. It includes the solution of key performance indicators (KPIs). The analysis provides actionable insights into sales patterns and customer behavior. The Power BI dashboard showcases interactive visuals for data exploration."
 ## Dataset used  
-- <a href="https://github.com/Anish7000/COFFEE_SHOP_SALES/blob/main/Coffee%20Shop%20Sales.csv">
 
 ## Question (KPI's)
 -Total Sales Analysis.  
